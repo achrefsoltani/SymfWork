@@ -302,7 +302,7 @@
       <workItem from="1604683686451" duration="9200000" />
       <workItem from="1604777448701" duration="3157000" />
       <workItem from="1604783479902" duration="203000" />
-      <workItem from="1604859009306" duration="339000" />
+      <workItem from="1604859009306" duration="1030000" />
     </task>
     <servers />
   </component>
@@ -346,6 +346,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604532066988" />
+    <state x="672" y="331" key="Github.ShareDialog" timestamp="1604859710006">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="672" y="331" key="Github.ShareDialog/0.0.1600.870@0.0.1600.870" timestamp="1604859710006" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1604522943966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
